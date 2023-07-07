@@ -1,0 +1,36 @@
+kode peserta : INPG-PKJ-08-026
+nama lengkap : GUGUN GUNAWAN
+sesi : 8 (final projects)
+
+
+CARA MENJALANKAN APLIKASI DI LOKAL :
+1. Untuk bisa menampilkannya di browser, terlbih dahulu buka index.html pada folder
+- jalankan menggunakan vs code lalu klik kanan --> Go Live (Live Server)
+- pada browser ketikan local host yang di dapat pada Live Server
+
+2. Panduan Menu
+di halaman awal ada beberapa menu :
+- Home
+Didalam menu Home ini adalah tampilan awal pada aplikasi
+
+- About
+Berisi biodata, Skill dan Award.
+
+- Experience
+Berisi pengalaman dan juga uraiang singkat mengenai pengalaman
+
+- Education
+Riwayat pendidikan
+
+- Portfolio
+untuk melihat hasil kerja dan mockup yang pernah di buat
+
+- Interest
+Ketertarikan dan minat
+
+- Contact
+Berisi call to action untuk menghubungi kontak yang tersedia
+
+
+*Pada tugas final project ini memakai template dari bootstrape : https://bootstrapmade.com/
+
